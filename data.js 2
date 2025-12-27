@@ -1,0 +1,18 @@
+const hospitals = [
+  {
+    district: "Dhaka",
+    upazila: "Dhanmondi",
+    name: "Dhaka Medical College Hospital",
+    phone: "0255165088",
+    ambulance: "01700000000",
+    map: "https://www.google.com/maps?q=Dhaka+Medical+College"
+  },
+  {
+    district: "Chattogram",
+    upazila: "Pahartali",
+    name: "Chittagong Medical College Hospital",
+    phone: "031619400",
+    ambulance: "01800000000",
+    map: "https://www.google.com/maps?q=Chittagong+Medical+College"
+  }
+];
